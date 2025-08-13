@@ -2,73 +2,27 @@
 # Hoja de Vida
 
 ## Nombre Completo
-**Profesión:** _Tu profesión_
+**Profesión:Anthony Gabriel Berroteran Mendez
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 313 210 4527
+- **Email:** anthonyberroteran2020@gmail.com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+- no tengo  tanta experiencia lavoral trabaje un mes en un conselter y gane dinero con el bloncesto al ganar algunos torneos 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+
+- estudie en distintos colegios en venezuela por lo que no puede tener amigos y tambien en parte por que era muy extrovertido cuando llegue aca a colombia que conocí a mi mejor amigo que lo considero un her mo con el que me gradue de bachiller el año pasado  
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- soy bueno trabajando en equipo
+- tengo la capacidad de escuchar las ideas de mis compañeros y llegar a acuerdos
+- soy buen lider 
 
 ---
 
-## 🎨 Formatos y Fuentes Disponibles
 
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
 
